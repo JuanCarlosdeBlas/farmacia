@@ -1,0 +1,51 @@
+﻿{"frames": {
+
+"FONDOBANNER":
+{
+	"frame": {"x":0,"y":0,"w":160,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":600},
+	"sourceSize": {"w":160,"h":600}
+},
+"LOGOTIPOPX":
+{
+	"frame": {"x":0,"y":602,"w":160,"h":114},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":114},
+	"sourceSize": {"w":160,"h":114}
+},
+"OFERTASESPECIALESPX":
+{
+	"frame": {"x":0,"y":718,"w":160,"h":84},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":84},
+	"sourceSize": {"w":160,"h":84}
+},
+"SERVICIOSCUIDADOINFANTILPX":
+{
+	"frame": {"x":0,"y":804,"w":160,"h":84},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":84},
+	"sourceSize": {"w":160,"h":84}
+},
+"SERVICIOSPRODUCTOSDEBELLEZAPX":
+{
+	"frame": {"x":0,"y":890,"w":160,"h":84},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":84},
+	"sourceSize": {"w":160,"h":84}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "21.0.2.37893",
+	"image": "BANNERS._atlas_2.png",
+	"format": "undefined",
+	"size": {"w":256,"h":1024},
+	"scale": "1"
+}
+}
